@@ -2,6 +2,10 @@
 
 # Change Log
 
+## xxx-xx-xxxx: Version 2.33.x
+
+- Restore the dependency on symfc.
+
 ## Dec-18-2024: Version 2.33.3
 
 - Fix for Windows build: `dtype="int_"` was replaced by `dtype="long"`.
